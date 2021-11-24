@@ -1,0 +1,39 @@
+Instruções:
+
+# Cada arquivo 'scraper' são independentes e não se correlacionam.
+   São os arquivos com os códigos.
+
+# Há diferenças, nos três arquivos, apenas no modelo de 
+    codificação ou dos resultados das variáveis.
+
+# Linguagem compatível: Python 3+ (preferível Python 3.9.5).
+
+# Código foi gerado no Visual Studio Code.
+
+# As libs baixadas foram a 'requests' e 'bs4'(BeautifulSoup).
+
+
+Passos:
+
+1. Baixando cada Script, ele pode ser rodado em IDE (recomendável VScode ou PyCharm) 
+    ou em plataforma online como Colab ou Jupyter.
+
+2. No próprio código já está o comando de baixar as "lib's" necessárias.
+
+2. Não há script's automatizados, 
+    portanto deve ser rodado manualmente com "run" cada arquivo com os códigos.
+
+3. O código gerado até aqui apresenta o resultado apenas do 'print' de variáveis, 
+    que podem ser alterados manualmente.*
+
+
+
+
+
+* O desafio apresenta-se incompleto quanto aos requisitos. 
+   Porém, realizado com esforço em aprender e aplicar o que foi proposto, 
+    durante a execução do código, para ser apresentado dentro do prazo.
+
+
+
+    
